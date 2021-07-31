@@ -1,0 +1,11 @@
+.secondUser, .sixthUser, .sevenUser, .ninthUser{
+    border: 1px solid red;
+    height: 50px;
+}
+.sub1 button{
+   float: right;
+
+   margin-right: 10px;
+   background-color: green;
+   cursor: pointer;
+}

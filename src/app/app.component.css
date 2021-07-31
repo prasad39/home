@@ -1,0 +1,16 @@
+.title{
+    text-align: center;
+    color: green;
+}
+.jumbotron{
+    background-color: lightgrey;
+}
+ul{
+    list-style-type: none;
+    
+}
+ul li a{
+    text-decoration: none;
+    padding: 5px;
+
+}

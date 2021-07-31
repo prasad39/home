@@ -1,0 +1,12 @@
+.firstUser, .thirdUser, .fourthUser, .fifthUser, .eightUser{
+    border: 1px solid green;
+    height: 50px;
+
+}
+.sub button{
+    float: right;
+    
+    margin-right: 10px;
+    background-color: red;
+    cursor: pointer;
+}
