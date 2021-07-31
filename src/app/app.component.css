@@ -1,6 +1,7 @@
 .title{
     text-align: center;
     color: green;
+    text-transfer:uppercase;
 }
 .jumbotron{
     background-color: lightgrey;
@@ -12,5 +13,5 @@ ul{
 ul li a{
     text-decoration: none;
     padding: 5px;
-
-}
+     
+} 
