@@ -9,13 +9,15 @@ import { UserdetailsComponent } from './userdetails/userdetails.component';
 import { ActiveModule } from './active/active.module';
 import { DeletedModule } from './deleted/deleted.module';
 import { ManageModule } from './manage/manage.module';
+import { NewcompComponent } from './newcomp/newcomp.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     UserComponent,
     UserlistComponent,
-    UserdetailsComponent
+    UserdetailsComponent,
+    NewcompComponent
   ],
   imports: [
     BrowserModule,
